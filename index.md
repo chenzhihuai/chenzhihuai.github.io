@@ -1,5 +1,5 @@
 ## About 
-Zhihuai Chen is a senior engineer at ICT, and mainly focuses on research topics like online scheduling and heuristic search algorithm. He loves programming and researching, and now devotes himself to solving problems in communication technology with combinatorial optimization knowledge.
+Zhihuai Chen is a Researcher at ICT, and mainly focuses on research topics like online scheduling and heuristic search algorithm. He loves programming and researching, and now devotes himself to solving problems in communication technology with combinatorial optimization knowledge.
 
 ## Education
 - 2009 - 2013 : Bachelor at College of Mathematics and Computer Science,Fuzhou University
@@ -7,7 +7,7 @@ Zhihuai Chen is a senior engineer at ICT, and mainly focuses on research topics 
 - 2015 - 2021 : PhD at Institute of Computing Technology, Chinese Academy of Sciences
 
 ## Work Experiences
-- 2021 - 2023: Senior engineer at ICT. Including: Online Scheduling, Network Scheduling, Chip Placement & Routing.
+- 2021 - 2023: Research at ICT. Including: Online Scheduling, Network Scheduling, Chip Placement & Routing.
    
 ## Publications
 - [1].	Zhihuai Chen, Ken C.K. Fong, Minming Li, Kai Wang, Hongning Yuan, Yong Zhang. Facility Location Games with Optional Preference. (TCS)
