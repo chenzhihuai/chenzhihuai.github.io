@@ -1,5 +1,6 @@
 ## About 
 Zhihuai Chen is a Ph.D. of Institute of Computing Technology, Chinese Academy of Sciences. Now he works as researcher at Huawei and his interests lie in topics like heuristic search algorithm. 
+
 ## Education
 - 2009 - 2013 : Bachelor at College of Mathematics and Computer Science,Fuzhou University
 - 2013 - 2015 : Master at Institute of Computing Technology, Chinese Academy of Sciences
