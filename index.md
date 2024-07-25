@@ -1,5 +1,5 @@
 ## About 
-Zhihuai Chen is a senior engineer at Huawei, and mainly focus on research topics like online scheduling and heuristic search algorithm. 
+Zhihuai Chen is a senior engineer at Huawei, and mainly focus on research topics like online scheduling and heuristic search algorithm. He love programming and researching, and now devotes himself in solving problem in communication technology with combinatorial optimization knowledge.
 
 ## Education
 - 2009 - 2013 : Bachelor at College of Mathematics and Computer Science,Fuzhou University
