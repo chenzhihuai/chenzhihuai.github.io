@@ -1,5 +1,5 @@
 ## About 
-Zhihuai Chen is a Ph.D. of Institute of Computing Technology, Chinese Academy of Sciences. Now he works as researcher at Huawei and his interests lie in topics like heuristic search algorithm. 
+Zhihuai Chen is a senior engineer at Huawei, and mainly focus on research topics like online scheduling and heuristic search algorithm. 
 
 ## Education
 - 2009 - 2013 : Bachelor at College of Mathematics and Computer Science,Fuzhou University
@@ -7,7 +7,7 @@ Zhihuai Chen is a Ph.D. of Institute of Computing Technology, Chinese Academy of
 - 2015 - 2021 : PhD at Institute of Computing Technology, Chinese Academy of Sciences
 
 ## Work Experiences
-- 2021 - Present: Research at Shanghai Huawei Technologies Co., Ltd. Including: Online Scheduling, Network Scheduling, Chip Placement & Routing.
+- 2021 - 2023: Senior engineer at Shanghai Huawei Technologies Co., Ltd. Including: Online Scheduling, Network Scheduling, Chip Placement & Routing.
    
 ## Publications
 - [1].	Zhihuai Chen, Ken C.K. Fong, Minming Li, Kai Wang, Hongning Yuan, Yong Zhang. Facility Location Games with Optional Preference. (TCS)
