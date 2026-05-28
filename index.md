@@ -10,11 +10,12 @@ Zhihuai Chen is a Researcher at ICT, and mainly focuses on research topics like 
 - 2021 - 2023: Research at ICT. Including: Online Scheduling, Network Scheduling, Chip Placement & Routing.
    
 ## Publications
-- [1].	Zhihuai Chen, Ken C.K. Fong, Minming Li, Kai Wang, Hongning Yuan, Yong Zhang. Facility Location Games with Optional Preference. (TCS)
-- [2].	Zhihuai Chen, Yinan Li, Xiaoming Sun, Pei Yuan, Jialin Zhang. Quantum-inspired Separable Non-Negative Matrix Decomposition. (IJCAI) 
-- [3].	Zhihuai Chen, Bo Li, Xiaohan Shan, Xiaoming Sun, Jialin Zhang. Discouraging Pool Block Withholding Attacks in Bitcoins. (JOCO)
-- [4].	Zhihuai Chen, Qian Li, Xiaoming Sun, Lirong Xia, and Jialin Zhang. Approximate Single-Peakedness in Large Elections. (ICKG)
-- [5].	Zhihuai Chen, Xiaohan Shan, Xiaoming Sun, Jialin Zhang. Decentralized Mining Pool Games in Blockchain. (ICKG)
+- [1].   Zhihuai Chen, Siyao Guo, Qian Li, Chengyu Lin, and Xiaoming Sun. New Distinguishers for Negation-Limited Weak Pseudorandom Functions. (ToC)
+- [2].	Zhihuai Chen, Ken C.K. Fong, Minming Li, Kai Wang, Hongning Yuan, Yong Zhang. Facility Location Games with Optional Preference. (TCS)
+- [3].	Zhihuai Chen, Yinan Li, Xiaoming Sun, Pei Yuan, Jialin Zhang. Quantum-inspired Separable Non-Negative Matrix Decomposition. (IJCAI) 
+- [4].	Zhihuai Chen, Bo Li, Xiaohan Shan, Xiaoming Sun, Jialin Zhang. Discouraging Pool Block Withholding Attacks in Bitcoins. (JOCO)
+- [5].	Zhihuai Chen, Qian Li, Xiaoming Sun, Lirong Xia, and Jialin Zhang. Approximate Single-Peakedness in Large Elections. (ICKG)
+- [6].	Zhihuai Chen, Xiaohan Shan, Xiaoming Sun, Jialin Zhang. Decentralized Mining Pool Games in Blockchain. (ICKG)
 
 ## Skill
 - Programming: C/C++, Python, Java, Go
